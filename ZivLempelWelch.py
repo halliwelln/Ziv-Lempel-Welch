@@ -1,10 +1,10 @@
 ﻿
-### Liv-Zempel-Welch
+### Ziv-Lempel-Welch
 ### implemented in Python 2.7
 ### Authors: Nick Halliwell, Matthew Sudmann-Day
 
 ###############################
-# Function: lzw - compress text using the Liv-Zempel-Welch Algorithm
+# Function: lzw - compress text using the Ziv-Lempel-Welch Algorithm
 #
 # Arg: text - either the text that needs to be compressed or the path to a file containing the text
 # Arg: is_file - a boolean, TRUE if the text is in a file, FALSE if it is passed in directly
